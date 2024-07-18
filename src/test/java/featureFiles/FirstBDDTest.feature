@@ -26,5 +26,6 @@ Feature: Test Registration and Login Positive flows of Amazon Website
     Then I click on the submit button
     And I validate that account login is successfull
     Then I will quite my browser
+#Adding New Line
     
 
